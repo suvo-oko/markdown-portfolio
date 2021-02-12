@@ -1,4 +1,4 @@
-##My favorite music albums
+## My favorite music albums
 
 * A Love Supreme
 * In Utero
