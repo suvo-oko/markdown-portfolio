@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Welcome to my portfolio!
+
+My name is Rodrigo and I'm learning **markdown**.
